@@ -1,5 +1,7 @@
 # Be a Master Rustacean
 
+<img width="1440" alt="Screen Shot 2022-07-06 at 07 31 11" src="https://user-images.githubusercontent.com/108769183/177433697-f84fa3d4-72cd-49f5-be15-0cfff5c4bf14.png">
+
 ## Ebooks
 
 1. [Black Hat Rust](https://github.com/rustaccato/e-books/blob/main/Black%20Hat%20Rust.pdf)
